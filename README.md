@@ -19,7 +19,8 @@
 ## git remote add origin https://github.com/noelarz/xxxx.git 
 ## git push -u origin master
 
-## My code is already tracked by Git #If your code is already tracked by Git then set this repository as your "origin" to push to.
+## My code is already tracked by Git 
+## If your code is already tracked by Git then set this repository as your "origin" to push to.
 
 ## cd existing-project 
 ## git remote set-url origin https://github.com/noelarz/xxxx.git 
