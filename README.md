@@ -1,4 +1,5 @@
-## You have an empty repository #To get started you will need to run these commands in your terminal.
+## You have an empty repository 
+## To get started you will need to run these commands in your terminal.
 
 ## Configure Git for the first time 
 ## git config --global user.name "1st.last"
